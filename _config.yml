@@ -42,7 +42,7 @@ google_analytics:
 # Used for Sitemap.xml and your RSS feed
 url: https://mathemage1.github.io/
 
-theme: jekyll-theme-cayman
+
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
