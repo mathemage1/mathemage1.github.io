@@ -6,7 +6,8 @@ permalink: /about/
 
 
 ### About me
-My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University, Russia and Masters degree at Cornell University, USA. Currently I am PhD student in computational maths at Skoltech (Russia). 
+My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University, Russia and Masters degree at Cornell University, USA. Currently I am PhD student in computational maths at Skoltech (Russia).  
+
 ## My friends  
 
 Fima  
