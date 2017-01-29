@@ -1,10 +1,45 @@
 ---
 layout: post
-title: You're up and running!
+title: Existence of meromorphic functions on Riemann surface
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Existence of non-constant meromorphic functions on arbitrary compact Riemann surface is non-trivial and important fact in algebraic geometry, which is used, for example, in elementary proof of Riemann-Roch theorem.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+One way how we can prove it is based on finite dimensionality of $latex H^1(X,\mathscr{O}_X) &bg=ffffff&fg=000000&s=1$ where $latex X &bg=ffffff&fg=000000&s=1$ is compact Riemann surface and $latex \mathscr{O}_X &bg=ffffff&fg=000000&s=1$ is structure sheaf (i.e. sheaf of holomorphic functions).
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+(and in fact $latex \dim H^1(X,\mathscr{O}_X) = g &bg=ffffff&fg=000000&s=1$ where $latex g&bg=ffffff&fg=000000&s=1$ is genus of $latex X &bg=ffffff&fg=000000&s=1$, which by Serre duality also equals dimension of space of holomorphic 1-forms)
+
+There are few ways to see this:
+
+Hodge theory. Using heavy functional analysis it is possible to prove that cohomology groups of any holomorphic vector bundle on compact complex manifold are finite dimensional vector spaces. This result uses ellipticity of so called Laplacian differential operator associated to this bundle and fact that elliptic differential operator on compact manifold is Fredholm (so it has finite dimensional kernel consisting of "harmonic forms" which is naturally isomorphic to cohomology). Details can be easily found in any book on complex geometry such as "Principles of Algebraic Geometry" by Griffiths and Harris or "Complex Analytic and Differential Geometry "by Demailly. 
+Coherent sheaves approach. Using Oka Coherence Theorem we know that $latex \mathscr{O}_X &bg=ffffff&fg=000000&s=1$ is coherent sheaf and by theorem of Cartan and Serre cohomology groups of coherent sheaf on compact manifold are finite dimensional vector spaces. Details can be found in "Coherent analytic sheaves" by Grauert and Remmert.
+Given $latex \dim H^1(X,\mathscr{O}_X) < \infty &bg=ffffff&fg=000000&s=1$ it's relatively easy to prove existence of meromorphic function.
+
+Fix any point $latex p &bg=ffffff&fg=000000&s=1$ and let $latex [p] &bg=ffffff&fg=000000&s=1$ be divisor defined by this point. Let $latex k>0 &bg=ffffff&fg=000000&s=1$ be natural number and $latex \mathscr{O}_X(k[p])&bg=ffffff&fg=000000&s=1$ be sheaf of meromorphic functions such that $latex \text{div} f + k[p] \geq 0&bg=ffffff&fg=000000&s=1$ and consider short exact sequence:
+
+$latex 0\to\mathscr{O}_X\to\mathscr{O}_X(k[p])\to\mathscr{I}\to 0 &bg=ffffff&fg=000000&s=1$
+
+where $latex \mathscr{I} &bg=ffffff&fg=000000&s=1$ is quotient sheaf and first map is obvious inclusion.
+
+It is clear that $latex \mathscr{I}_x = 0&bg=ffffff&fg=000000&s=1$ if $latex x\neq p \&bg=ffffff&fg=000000&s=1$ and $latex \mathscr{I}_p = \mathbb{C}^k&bg=ffffff&fg=000000&s=1$
+
+Indeed, elements of $latex \mathscr{I}_p&bg=ffffff&fg=000000&s=1$ are represented by tails of Laurent series
+
+$latex \sum_{i=1}^{k}\frac{c_i}{(z-p)^i}&bg=ffffff&fg=000000&s=1$
+
+We obtain long exact sequence of sheaf cohomology and important for us piece of it is:
+
+$latex H^0(X,\mathscr{O}_X(k[p]))\to H^0(X,\mathscr{I})\to H^1(X,\mathscr{O}_X)&bg=ffffff&fg=000000&s=1$
+
+From properties of $latex \mathscr{I} &bg=ffffff&fg=000000&s=1$ it's clear that $latex H^0(X,\mathscr{I}) = \mathbb{C}^k&bg=ffffff&fg=000000&s=1$ (any such section is determined by value of it's stalk at $latex p&bg=ffffff&fg=000000&s=1$ and clearly for each stalk at $latex p&bg=ffffff&fg=000000&s=1$ locally exists meromorphic function inducing it)
+
+So we get following exact sequence
+
+$latex H^0(X,\mathscr{O}_X(k[p]))\to \mathbb{C}^k\to H^1(X,\mathscr{O}_X)&bg=ffffff&fg=000000&s=1$
+
+Since $latex \dim H^1(X,\mathscr{O}_X) < \infty &bg=ffffff&fg=000000&s=1$ we can take large enough $latex k&bg=ffffff&fg=000000&s=1$ such that kernel of second map in exact sequence above is not trivial. This implies that $latex H^0(X,\mathscr{O}_X(k[p])) \neq 0&bg=ffffff&fg=000000&s=1$ for some $latex k&bg=ffffff&fg=000000&s=1$
+
+This proof easily can be modified to show that for any holomorphic line bundle $latex E&bg=ffffff&fg=000000&s=1$ there exists global meromorphic section of this bundle
+
+
+
