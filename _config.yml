@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Valentin Khrulkov
+name: Mathemagical Tower
 
 # Short bio or description (displayed in the header)
-description: PhD student
+description: aspiring PhD student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pp.vk.me/c604829/v604829866/a092/54l0c_pJ2eE.jpg
@@ -19,14 +19,14 @@ avatar: https://pp.vk.me/c604829/v604829866/a092/54l0c_pJ2eE.jpg
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/Mathemage1
+  facebook: Mathemage1
   flickr:
   github: 
-  instagram:
+  instagram: mathemage_pro
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/vforvalya1
+  twitter: vforvalya1
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
