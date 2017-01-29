@@ -14,7 +14,7 @@ Fima
 
 <img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/547307_4475225880424_401465990_n.jpg?oh=b1f3ff1fd6663274ce510694fbf65f0d&oe=59477497" width="200" />  
 
-Edward  
+Edik 
 
 <img src="https://pp.vk.me/c629229/v629229347/3cde8/ZyUNkDx83rk.jpg" width="200" />  
 
