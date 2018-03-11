@@ -5,14 +5,14 @@ permalink: /about/
 ---
 
 
-## About me
+### About me
 My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University, Russia and Masters degree at Cornell University, USA. Currently I am a PhD student in computational maths at Skoltech (Russia).  My CV can be found [here](images/cv.pdf).
 
-## Contact me
+### Contact me
 
 [khrulkov.v@gmail.com](mailto:khrulkov.v@gmail.com)
 
-## Selected Publications
+### Selected Publications
 
 + V. Khrulkov and I. Oseledets,  _Art of singular vectors and universal adversarial perturbations_,
 accepted as a conference paper (spotlight talk) at the Conference on Computer Vision and Pattern Recognition (CVPR) 2018 
@@ -26,7 +26,7 @@ accepted as a conference paper (poster) at the International Conference on Learn
 accepted for publication by the SIAM Journal on Matrix Analysis and Applications (SIMAX)
 [[arXiv](https://arxiv.org/abs/1612.03973)].
 
-## My friends  
+### My friends  
 
 Fima (a professional hedge fund analyst)
 
