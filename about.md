@@ -5,8 +5,26 @@ permalink: /about/
 ---
 
 
-### About me
-My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University, Russia and Masters degree at Cornell University, USA. Currently I am a PhD student in computational maths at Skoltech (Russia).  
+## About me
+My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University, Russia and Masters degree at Cornell University, USA. Currently I am a PhD student in computational maths at Skoltech (Russia).  My CV can be found [here](images/cv.pdf).
+
+## Contact me
+
+[khrulkov.v@gmail.com](mailto:khrulkov.v@gmail.com)
+
+## Selected Publications
+
++ V. Khrulkov and I. Oseledets,  _Art of singular vectors and universal adversarial perturbations_,
+accepted as a conference paper (spotlight talk) at the Conference on Computer Vision and Pattern Recognition (CVPR) 2018 
+[[arXiv](https://arxiv.org/abs/1709.03582)].
+
++ V. Khrulkov, A. Novikov and I. Oseledets,  _Expressive power of recurrent neural networks_,
+accepted as a conference paper (poster) at the International Conference on Learning Representations (ICLR) 2018  
+[[openreview](https://openreview.net/forum?id=S1WRibb0Z)].
+
++ V. Khrulkov and I. Oseledets,  _Desingularization of bounded-rank matrix sets_,
+accepted for publication by the SIAM Journal on Matrix Analysis and Applications (SIMAX)
+[[arXiv](https://arxiv.org/abs/1612.03973)].
 
 ## My friends  
 
@@ -33,7 +51,3 @@ Lenya (a professional complex geometer)
 Lyuba (a professional aircraft engineer)
 
 <img src="https://pp.userapi.com/c841032/v841032676/585c4/LlL_VmdGEWM.jpg" width="200" />
-
-### Contact me
-
-[khrulkov.v@gmail.com](mailto:khrulkov.v@gmail.com)
