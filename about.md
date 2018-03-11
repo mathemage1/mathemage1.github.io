@@ -52,8 +52,8 @@ Lyuba (a professional aircraft engineer)
 
 <img src="https://pp.userapi.com/c841032/v841032676/585c4/LlL_VmdGEWM.jpg" width="200" />
 
-Romin (a professional Zariski geometries researcher)
+Ramil (a professional graphics programmer)
 
-<img src="images/romin_pic.png" width="200" />
+<img src="https://pbs.twimg.com/profile_images/832274766459502593/sSyXY2Ia_400x400.jpg" width="200" />
 
 
