@@ -10,7 +10,7 @@ My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University
 
 ## My friends  
 
-Fima (a professional financial hedge fund analyst)
+Fima (a professional hedge fund analyst)
 
 <img src="http://gauss.math.yale.edu/~eaa54/Foto.jpg" width="200" />  
 
