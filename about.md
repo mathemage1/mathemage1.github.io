@@ -6,30 +6,33 @@ permalink: /about/
 
 
 ### About me
-My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University, Russia and Masters degree at Cornell University, USA. Currently I am PhD student in computational maths at Skoltech (Russia).  
+My name is Valentin. I got Bachelors degree at Lomonosov Moscow State University, Russia and Masters degree at Cornell University, USA. Currently I am a PhD student in computational maths at Skoltech (Russia).  
 
 ## My friends  
 
-Fima  
+Fima (a professional financial hedge fund analyst)
 
-<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/547307_4475225880424_401465990_n.jpg?oh=b1f3ff1fd6663274ce510694fbf65f0d&oe=59477497" width="200" />  
+<img src="http://gauss.math.yale.edu/~eaa54/Foto.jpg" width="200" />  
 
-Edik 
+Edik (a professional flat surfaces researcher)
 
 <img src="https://pp.vk.me/c629229/v629229347/3cde8/ZyUNkDx83rk.jpg" width="200" />  
 
-Petya  
+Petya (a professional quantum K-theory researcher)
 
 <img src="https://pp.vk.me/c5664/u6643828/153014937/z_d65ee26c.jpg" width="200" />  
 
-Lena  
+Lena  (a professional CERN scientist)
 
 <img src="https://pp.vk.me/c624529/v624529664/28bc1/40d7BPiiT_0.jpg" width="200" />
 
-Lenya
+Lenya (a professional complex geometer)
 
-<img src="https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/14242502_1005567689542076_5024328258557571407_o.jpg?oh=8dce8f6bee662a378b4320bcd333f597&oe=5905101B" width="200" />
+<img src="http://www.math.toronto.edu/lmonin/me.jpg" width="200" />
 
+Lyuba (a professional aircraft engineer)
+
+<img src="https://pp.userapi.com/c841032/v841032676/585c4/LlL_VmdGEWM.jpg" width="200" />
 
 ### Contact me
 
