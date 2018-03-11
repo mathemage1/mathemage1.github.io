@@ -51,3 +51,9 @@ Lenya (a professional complex geometer)
 Lyuba (a professional aircraft engineer)
 
 <img src="https://pp.userapi.com/c841032/v841032676/585c4/LlL_VmdGEWM.jpg" width="200" />
+
+Romin (a professional Zariski geometries researcher)
+
+<img src="images/romin_pic.png" width="200" />
+
+
