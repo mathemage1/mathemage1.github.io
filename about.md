@@ -40,7 +40,7 @@ Petya (a professional quantum K-theory researcher)
 
 <img src="https://pp.vk.me/c5664/u6643828/153014937/z_d65ee26c.jpg" width="200" />  
 
-Lena  (a professional CERN scientist)
+Lena  (a professional particle physicist)
 
 <img src="https://pp.vk.me/c624529/v624529664/28bc1/40d7BPiiT_0.jpg" width="200" />
 
