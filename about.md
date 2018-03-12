@@ -56,4 +56,6 @@ Ramil (a professional graphics programmer)
 
 <img src="https://pbs.twimg.com/profile_images/832274766459502593/sSyXY2Ia_400x400.jpg" width="200" />
 
+Maxim (a professional density functional theory researcher)
 
+<img stc="https://pp.userapi.com/c310125/v310125242/1d59/1DMODOwUse4.jpg" width="200" />
