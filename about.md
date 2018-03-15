@@ -48,7 +48,7 @@ Lenya (a professional complex geometer)
 
 <img src="http://www.math.toronto.edu/lmonin/me.jpg" width="200" />
 
-Lyuba (a professional aircraft engineer)
+Lyuba (a professional web programmer)
 
 <img src="https://pp.userapi.com/c841032/v841032676/585c4/LlL_VmdGEWM.jpg" width="200" />
 
