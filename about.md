@@ -50,7 +50,7 @@ Lenya (a professional complex geometer)
 
 Alexey (a professional RL agent)
 
-
+<img src="https://sun9-21.userapi.com/c836527/v836527549/dfac/pLdH790B3JI.jpg" width="200" />
 
 Ramil (a professional graphics programmer)
 
